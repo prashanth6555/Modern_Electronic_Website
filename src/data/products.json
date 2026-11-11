@@ -1,0 +1,650 @@
+[
+  {
+    "id": "mob-lumen-x1",
+    "name": "Lumen X1 Pro",
+    "category": "Mobiles",
+    "price": 1099,
+    "discount": 15,
+    "rating": 4.8,
+    "reviews": 2143,
+    "stock": 14,
+    "tag": "New",
+    "featured": true,
+    "colors": ["Graphite", "Porcelain", "Sage"],
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A pocket flagship with a calmer camera and a 120Hz OLED that stays readable when the sun is doing too much.",
+    "highlights": ["120Hz OLED", "All-day battery", "45W charging"],
+    "specs": {
+      "Display": "6.7-inch 120Hz OLED",
+      "Processor": "Lumen N3",
+      "Storage": "256GB",
+      "Camera": "48MP main, 12MP ultra-wide",
+      "Battery": "4,500 mAh"
+    }
+  },
+  {
+    "id": "mob-north-air",
+    "name": "North Peak Air",
+    "category": "Mobiles",
+    "price": 799,
+    "discount": 10,
+    "rating": 4.6,
+    "reviews": 1688,
+    "stock": 22,
+    "tag": "Best seller",
+    "featured": false,
+    "colors": ["Midnight", "Fog"],
+    "images": [
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Light in the hand, sharp in daylight, and fast enough that the everyday stuff never feels like a wait.",
+    "highlights": ["172g chassis", "Dual speakers", "IP68"],
+    "specs": {
+      "Display": "6.4-inch 90Hz OLED",
+      "Processor": "North A2",
+      "Storage": "128GB",
+      "Camera": "50MP dual",
+      "Battery": "4,300 mAh"
+    }
+  },
+  {
+    "id": "mob-halo-fold",
+    "name": "Halo Fold Mini",
+    "category": "Mobiles",
+    "price": 1299,
+    "discount": 8,
+    "rating": 4.7,
+    "reviews": 642,
+    "stock": 9,
+    "tag": "New",
+    "featured": false,
+    "colors": ["Ink", "Cream"],
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A compact fold that opens into a real reading pane, with a hinge that stays out of the way of your thumb.",
+    "highlights": ["Pocket fold", "Cover screen", "Stylus ready"],
+    "specs": {
+      "Display": "7.4-inch inner OLED",
+      "Processor": "Halo F1",
+      "Storage": "256GB",
+      "Camera": "50MP triple",
+      "Battery": "4,200 mAh"
+    }
+  },
+  {
+    "id": "mob-pixel-s",
+    "name": "Pixelline S",
+    "category": "Mobiles",
+    "price": 649,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 3011,
+    "stock": 30,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black", "Blue", "Coral"],
+    "images": [
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "The phone you hand to a friend without a speech. Clean photos, a bright screen, and a price that behaves.",
+    "highlights": ["Clean night photos", "128GB storage", "Stereo sound"],
+    "specs": {
+      "Display": "6.5-inch OLED",
+      "Processor": "Pixelline S",
+      "Storage": "128GB",
+      "Camera": "50MP main",
+      "Battery": "5,000 mAh"
+    }
+  },
+  {
+    "id": "lap-drift-14",
+    "name": "Driftbook 14",
+    "category": "Laptops",
+    "price": 1499,
+    "discount": 12,
+    "rating": 4.9,
+    "reviews": 980,
+    "stock": 11,
+    "tag": "New",
+    "featured": true,
+    "colors": ["Silver", "Space"],
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Fourteen inches of quiet aluminum for people who write, edit, and disappear into a train window.",
+    "highlights": ["18-hour battery", "1.2 kg", "Retina-class panel"],
+    "specs": {
+      "Display": "14-inch 2.8K",
+      "Processor": "8-core performance",
+      "Memory": "16GB",
+      "Storage": "512GB SSD",
+      "Weight": "1.24 kg"
+    }
+  },
+  {
+    "id": "lap-forge-16",
+    "name": "Forge 16 Studio",
+    "category": "Laptops",
+    "price": 2199,
+    "discount": 6,
+    "rating": 4.8,
+    "reviews": 544,
+    "stock": 7,
+    "tag": "Best seller",
+    "featured": false,
+    "colors": ["Graphite"],
+    "images": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A 16-inch studio machine with a color-honest panel and fans that only speak up when the timeline gets rude.",
+    "highlights": ["Color-accurate screen", "32GB memory", "Dedicated graphics"],
+    "specs": {
+      "Display": "16-inch 120Hz",
+      "Processor": "14-core studio",
+      "Memory": "32GB",
+      "Storage": "1TB SSD",
+      "Graphics": "Dedicated 8GB"
+    }
+  },
+  {
+    "id": "lap-paper-air",
+    "name": "Paperthin Air",
+    "category": "Laptops",
+    "price": 999,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 1276,
+    "stock": 18,
+    "tag": "",
+    "featured": false,
+    "colors": ["Mist", "Ink"],
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A slim everyday laptop that opens fast, types quietly, and still has a port you actually remember.",
+    "highlights": ["1.1 kg", "All-day class", "Backlit keys"],
+    "specs": {
+      "Display": "13.6-inch LCD",
+      "Processor": "6-core efficiency",
+      "Memory": "8GB",
+      "Storage": "256GB SSD",
+      "Weight": "1.12 kg"
+    }
+  },
+  {
+    "id": "lap-campus-13",
+    "name": "Campus Go 13",
+    "category": "Laptops",
+    "price": 749,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 2210,
+    "stock": 26,
+    "tag": "",
+    "featured": false,
+    "colors": ["Silver", "Blue"],
+    "images": [
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Built for notes, labs, and the bag you already own. Tough lid, honest keyboard, no drama.",
+    "highlights": ["Spill-resistant keys", "1080p camera", "Fast charge"],
+    "specs": {
+      "Display": "13.3-inch Full HD",
+      "Processor": "Campus 6-core",
+      "Memory": "16GB",
+      "Storage": "512GB SSD",
+      "Battery": "Up to 14 hours"
+    }
+  },
+  {
+    "id": "aud-quietroom",
+    "name": "Quietroom Max",
+    "category": "Headphones",
+    "price": 349,
+    "discount": 22,
+    "rating": 4.8,
+    "reviews": 4120,
+    "stock": 20,
+    "tag": "Best seller",
+    "featured": true,
+    "colors": ["Black", "Sand"],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Noise control that feels like a closed door, with earcups soft enough for a long-haul playlist.",
+    "highlights": ["Adaptive quiet", "40-hour battery", "Multipoint"],
+    "specs": {
+      "Type": "Over-ear wireless",
+      "Drivers": "40mm",
+      "Battery": "40 hours",
+      "Noise control": "Hybrid adaptive",
+      "Weight": "248g"
+    }
+  },
+  {
+    "id": "aud-studio-loop",
+    "name": "Studio Loop",
+    "category": "Headphones",
+    "price": 179,
+    "discount": 10,
+    "rating": 4.7,
+    "reviews": 866,
+    "stock": 15,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Closed studio cans with a flat, honest tune for editing, mixing, and hearing the take you actually recorded.",
+    "highlights": ["Wired, zero lag", "Detachable cable", "Flat tune"],
+    "specs": {
+      "Type": "Over-ear wired",
+      "Drivers": "50mm",
+      "Impedance": "80 ohm",
+      "Cable": "Detachable 1.8m",
+      "Weight": "290g"
+    }
+  },
+  {
+    "id": "aud-runbeat",
+    "name": "Runbeat Sport",
+    "category": "Headphones",
+    "price": 129,
+    "discount": 25,
+    "rating": 4.3,
+    "reviews": 1544,
+    "stock": 5,
+    "tag": "",
+    "featured": false,
+    "colors": ["Volt", "Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Hooks that stay put when the pace picks up, with a seal that keeps the street out of the chorus.",
+    "highlights": ["Secure fit", "Sweat resistant", "8-hour buds"],
+    "specs": {
+      "Type": "Sport earbuds",
+      "Battery": "8 hours, 24 with case",
+      "Resistance": "IP55",
+      "Codecs": "AAC",
+      "Weight": "5.4g each"
+    }
+  },
+  {
+    "id": "tv-cinema-65",
+    "name": "Cinema 65 OLED",
+    "category": "Smart TVs",
+    "price": 1799,
+    "discount": 18,
+    "rating": 4.9,
+    "reviews": 733,
+    "stock": 8,
+    "tag": "Best seller",
+    "featured": true,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "True black, film-maker mode that is not a gimmick, and a panel thin enough to disappear after lights-out.",
+    "highlights": ["OLED black", "120Hz gaming", "Four HDMI"],
+    "specs": {
+      "Size": "65-inch",
+      "Panel": "4K OLED 120Hz",
+      "HDR": "Dolby Vision, HDR10",
+      "Audio": "40W with Atmos",
+      "Smart TV": "VOLT TV apps"
+    }
+  },
+  {
+    "id": "tv-living-55",
+    "name": "Living 55 QLED",
+    "category": "Smart TVs",
+    "price": 899,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 1190,
+    "stock": 13,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Bright enough for a sunny living room, smart enough that the remote is the only manual you need.",
+    "highlights": ["Bright QLED", "Voice remote", "Game mode"],
+    "specs": {
+      "Size": "55-inch",
+      "Panel": "4K QLED",
+      "HDR": "HDR10+",
+      "Audio": "30W",
+      "Smart TV": "VOLT TV apps"
+    }
+  },
+  {
+    "id": "tv-room-43",
+    "name": "Room 43 LED",
+    "category": "Smart TVs",
+    "price": 429,
+    "discount": 20,
+    "rating": 4.2,
+    "reviews": 860,
+    "stock": 7,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1461151304267-38535e780c79?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A bedroom and office screen that does film night without taking over the wall or the budget.",
+    "highlights": ["Compact 43-inch", "App store", "Low input lag"],
+    "specs": {
+      "Size": "43-inch",
+      "Panel": "4K LED",
+      "HDR": "HDR10",
+      "Audio": "20W",
+      "Smart TV": "VOLT TV apps"
+    }
+  },
+  {
+    "id": "cam-frame-m4",
+    "name": "Frame Mirrorless M4",
+    "category": "Cameras",
+    "price": 1899,
+    "discount": 8,
+    "rating": 4.8,
+    "reviews": 410,
+    "stock": 6,
+    "tag": "New",
+    "featured": false,
+    "colors": ["Black", "Silver"],
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A mirrorless body that focuses like it already knows which face you meant, in a grip that lasts a wedding day.",
+    "highlights": ["33MP sensor", "In-body stabilization", "Weather sealed"],
+    "specs": {
+      "Sensor": "33MP full frame",
+      "Video": "4K 60p",
+      "Stabilization": "5-axis IBIS",
+      "Screen": "3-inch tilting",
+      "Weight": "520g body"
+    }
+  },
+  {
+    "id": "cam-street-c2",
+    "name": "Street Compact C2",
+    "category": "Cameras",
+    "price": 699,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 702,
+    "stock": 12,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A pocket camera with a fast lens and a quiet shutter, for days you do not want a system on your shoulder.",
+    "highlights": ["Pocketable", "Fast prime lens", "Raw photos"],
+    "specs": {
+      "Sensor": "20MP 1-inch",
+      "Lens": "24-70mm equivalent",
+      "Video": "4K 30p",
+      "Screen": "3-inch fixed",
+      "Weight": "299g"
+    }
+  },
+  {
+    "id": "cam-lens-50",
+    "name": "Field 50mm Lens",
+    "category": "Cameras",
+    "price": 399,
+    "discount": 5,
+    "rating": 4.7,
+    "reviews": 388,
+    "stock": 16,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A small fifty that draws people the way your eye already does. Sharp in the middle, kind at the edges.",
+    "highlights": ["f/1.8 aperture", "Light build", "Quiet focus"],
+    "specs": {
+      "Focal length": "50mm",
+      "Aperture": "f/1.8",
+      "Mount": "VOLT frame mount",
+      "Filter": "49mm",
+      "Weight": "180g"
+    }
+  },
+  {
+    "id": "watch-pulse-s9",
+    "name": "Pulse S9",
+    "category": "Smartwatches",
+    "price": 429,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 2504,
+    "stock": 19,
+    "tag": "New",
+    "featured": false,
+    "colors": ["Midnight", "Starlight"],
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Health signals without the lecture. Sleep, heart, and a face you still want to look at on a Monday.",
+    "highlights": ["ECG and heart", "Always-on display", "2-day battery"],
+    "specs": {
+      "Case": "45mm aluminum",
+      "Display": "Always-on OLED",
+      "Water": "50m",
+      "Battery": "Up to 2 days",
+      "Sensors": "Heart, SpO2, ECG"
+    }
+  },
+  {
+    "id": "watch-trail-ultra",
+    "name": "Trail GPS Ultra",
+    "category": "Smartwatches",
+    "price": 549,
+    "discount": 10,
+    "rating": 4.7,
+    "reviews": 933,
+    "stock": 10,
+    "tag": "",
+    "featured": false,
+    "colors": ["Trail", "Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "Maps on the wrist, a battery that survives a long ridge, and buttons you can find with gloves on.",
+    "highlights": ["Multi-band GPS", "Offline maps", "Week of tracking"],
+    "specs": {
+      "Case": "51mm titanium",
+      "Display": "MIP + OLED",
+      "Water": "100m",
+      "Battery": "Up to 12 days",
+      "GPS": "Multi-band"
+    }
+  },
+  {
+    "id": "watch-classic",
+    "name": "Classic Round Steel",
+    "category": "Smartwatches",
+    "price": 279,
+    "discount": 18,
+    "rating": 4.4,
+    "reviews": 1402,
+    "stock": 21,
+    "tag": "",
+    "featured": false,
+    "colors": ["Steel", "Gold tone"],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A round steel watch that tells the time first and the notifications second. Dressy without trying.",
+    "highlights": ["Sapphire glass", "Steel bracelet", "Quiet notifications"],
+    "specs": {
+      "Case": "42mm steel",
+      "Display": "AMOLED",
+      "Water": "5 ATM",
+      "Battery": "Up to 4 days",
+      "Strap": "Steel bracelet"
+    }
+  },
+  {
+    "id": "acc-keystone",
+    "name": "Keystone Mechanical",
+    "category": "Accessories",
+    "price": 159,
+    "discount": 12,
+    "rating": 4.8,
+    "reviews": 1877,
+    "stock": 17,
+    "tag": "Best seller",
+    "featured": false,
+    "colors": ["White", "Charcoal"],
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A compact mechanical board with a sound that is present, not loud, and switches that do not tire your wrists.",
+    "highlights": ["Hot-swap switches", "USB-C", "Compact layout"],
+    "specs": {
+      "Layout": "75%",
+      "Switches": "Tactile, hot-swap",
+      "Connection": "USB-C",
+      "Keycaps": "PBT",
+      "Backlight": "White"
+    }
+  },
+  {
+    "id": "acc-glide",
+    "name": "Glide Pro Mouse",
+    "category": "Accessories",
+    "price": 79,
+    "discount": 20,
+    "rating": 4.5,
+    "reviews": 990,
+    "stock": 28,
+    "tag": "",
+    "featured": false,
+    "colors": ["Black", "White"],
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A quiet wireless mouse with a sensor that stays precise on wood, cloth, and the cafe table you did not plan for.",
+    "highlights": ["Silent clicks", "70 days battery", "USB-C charge"],
+    "specs": {
+      "Sensor": "8,000 DPI",
+      "Connection": "2.4GHz and Bluetooth",
+      "Buttons": "6",
+      "Battery": "Up to 70 days",
+      "Weight": "78g"
+    }
+  },
+  {
+    "id": "acc-charge-65",
+    "name": "Charge Brick 65W",
+    "category": "Accessories",
+    "price": 49,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 3204,
+    "stock": 6,
+    "tag": "",
+    "featured": false,
+    "colors": ["White"],
+    "images": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "One brick for the phone and the laptop. GaN, small enough for a jacket pocket, cool enough to forget.",
+    "highlights": ["65W GaN", "Two ports", "Travel size"],
+    "specs": {
+      "Power": "65W max",
+      "Ports": "USB-C and USB-A",
+      "Protocol": "USB-PD",
+      "Folding pins": "Yes",
+      "Weight": "112g"
+    }
+  },
+  {
+    "id": "acc-boom-mini",
+    "name": "Boom Mini Speaker",
+    "category": "Accessories",
+    "price": 99,
+    "discount": 22,
+    "rating": 4.4,
+    "reviews": 756,
+    "stock": 24,
+    "tag": "",
+    "featured": false,
+    "colors": ["Clay", "Black"],
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "description": "A palm-size speaker with more low end than the size suggests, and a strap that goes on a bag without a fuss.",
+    "highlights": ["12-hour play", "IP67", "Stereo pair"],
+    "specs": {
+      "Output": "20W",
+      "Battery": "12 hours",
+      "Resistance": "IP67",
+      "Pairing": "Bluetooth 5.3",
+      "Weight": "420g"
+    }
+  }
+]
